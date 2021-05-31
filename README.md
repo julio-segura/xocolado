@@ -1,4 +1,4 @@
-- Hi there 👋, my name is Julio
+Hi there 👋, my name is Julio
 
 - 👀 I’m interested in data science & analytics, and machine learning
 - 🌱 I’m currently learning Python
