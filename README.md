@@ -1,7 +1,7 @@
 Hi there 👋, my name is Julio
 
 - 👀 I’m interested in data science, analytics, and machine learning
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently practicing SQL and Python
 - 💞️ I’m looking to collaborate on anything data science related
 - 📫 How to reach me: juliosegura@gmail.com
 
